@@ -31,6 +31,12 @@ Feel free to fork and contribute! :)
 
 ## Support
 
+PIDflight Lap firmware and cross-platform GUI is provided free of charge to all users.
+
+If you find PIDflight Lap useful and would like to support continued development efforts please feel free to donate to this project or purchase the premium edition of the PIDflight Lap Android app, any donation or purchase is appreciated. Thank you! :)
+
+[![Donate to PIDflight Lap](assets/paypal.png)](https://www.paypal.me/CMengler)
+
 There is plenty of information and community support available via these channels!
 
 - [Website](https://www.pidflight.com/)
